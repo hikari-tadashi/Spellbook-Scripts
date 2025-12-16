@@ -1,0 +1,1 @@
+# This could be used to create the garden directory
